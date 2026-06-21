@@ -82,10 +82,10 @@ Every push to the `main` branch triggers an automatic build and deployment.
 ## 📬 Contact
 
 👤 **Piyush Verma**  
-📧 Email: your-email@example.com  
+📧 Email: piyushverma4355@gmail.com  
 🌐 Portfolio: mepiyushverma.netlify.app [(mepiyushverma.netlify.app in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fmepiyushverma.netlify.app%2F")  
-💼 LinkedIn: [Your LinkedIn Profile](#)  
-🐙 GitHub: [Your GitHub Profile](#)
+💼 LinkedIn: [piyushverma4355](#)  
+🐙 GitHub: [https://github.com/Piyush0823](#)
 
 ---
 
