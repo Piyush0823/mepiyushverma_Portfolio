@@ -1,4 +1,4 @@
-# 🌐 My Personal Portfolio Website
+# 🌐 My Own Portfolio Website
 
 Welcome to my portfolio!  
 This project is a modern, responsive, and fast portfolio website showcasing my skills, projects, and achievements in software engineering.
